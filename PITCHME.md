@@ -9,7 +9,7 @@
 
 @snapend
 @snap[west span-55]
-@ul[list-spaced-bullets text-white text-09]
+@ul[list-spaced-bullets text-white text-15]
 
 - IaaS;
 - SaaS;
