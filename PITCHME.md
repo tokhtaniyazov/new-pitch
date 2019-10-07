@@ -3,7 +3,10 @@
 
 ---
 
-#### Как правило, сервисы облачных вычислений делятся на следующие три широкие категории:**
+@snapend
+@snap[north span-100 h2-white]
+#### Как правило, сервисы облачных вычислений делятся на следующие три широкие категории:
+
 @snapend
 @snap[span-100 text-06]
 @ul[list-spaced-bullets text-white text-09]
@@ -12,10 +15,12 @@
 - SaaS;
 - PaaS;
 
----?image=assets/images/diagram.jpg&size=auto 80%
----?image=assets/images/IaaS.jpg&size=auto 80%
 @ulend
 @snapend
+
+---?image=assets/images/diagram.jpg&size=auto 80%
+---?image=assets/images/IaaS.jpg&size=auto 80%
+
 
 ---
 
