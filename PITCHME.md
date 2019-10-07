@@ -8,7 +8,7 @@
 #### Как правило, сервисы облачных вычислений делятся на следующие три широкие категории:
 
 @snapend
-@snap[span-100 text-06]
+@snap[west span-55]
 @ul[list-spaced-bullets text-white text-09]
 
 - IaaS;
